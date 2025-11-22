@@ -40,21 +40,21 @@ The layout is complete and functional down to a minimum width of 320px, with all
 * **Breakpoint:** Full Width (e.g., $1440\text{px}$)
 * **Focus:** Shows the complete 7-column data grid and fixed header.
 
-![Desktop view of the Axiom Pulse Discovery Table]([Screenshot%20from%202025-11-22%2016-46-35.png](https://drive.google.com/file/d/1vmSDjvDVGGd6Tj55pjjUg1vdGG6uUxFA/view?usp=sharing))
+![Desktop view of the Axiom Pulse Discovery Table](desktop_view.png)
 
 ### Tablet/Medium View
 
 * **Breakpoint:** iPad Pro ($1024\text{px}$)
 * **Focus:** Demonstrates the strategic hiding of columns (`Volume` and `Liquidity`) to prioritize core metrics for mid-sized screens.
 
-![Tablet view of the Axiom Pulse Discovery Table]([Screenshot%20from%202025-11-22%2016-46-09.png](https://drive.google.com/file/d/1p--xW7E3zPJyoXxmy-J1Dp6nW9LwTN5f/view?usp=drive_link))
+![Tablet view of the Axiom Pulse Discovery Table](tab_view.png)
 
 ### Mobile/Minimum View
 
 * **Breakpoint:** Samsung Galaxy S8+ ($360\text{px}$)
 * **Focus:** The final condensed mobile layout showing only essential columns (Token, Score, Price), with the Filter button replacing the Advanced Filters button.
 
-![Mobile view of the Axiom Pulse Discovery Table]([Screenshot%20from%202025-11-22%2016-45-49.png](https://drive.google.com/file/d/1qoqfoT1E156CfqNbt5GpSrCgjrIsO7u3/view?usp=drive_link))
+![Mobile view of the Axiom Pulse Discovery Table](mobile_view.png)
 
 ---
 
