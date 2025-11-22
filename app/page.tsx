@@ -1,4 +1,4 @@
-import AxiomTradeTable from '../components/AxiomTradeTable.tsx'; 
+import AxiomTradeTable from '../components/AxiomTradeTable';
 
 // This is the root page component. It is a Server Component, responsible 
 // only for importing and rendering the Client Component (AxiomTradeTable).
