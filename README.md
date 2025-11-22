@@ -38,7 +38,7 @@ The layout is complete and functional down to a minimum width of 320px, with all
 ### Desktop View
 
 * **Breakpoint:** Full Width (e.g., $1440\text{px}$)
-* **Focus:** Shows the complete 7-column data grid and fixed header.
+* **Focus:** Shows the complete 15-column data grid and fixed header.
 
 ![Desktop view of the Axiom Pulse Discovery Table](desktop_view.png)
 
